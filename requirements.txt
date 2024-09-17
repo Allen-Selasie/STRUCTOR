@@ -1,0 +1,5 @@
+google.generativeai
+re
+flask
+pandas
+os
