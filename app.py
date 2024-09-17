@@ -7,7 +7,7 @@ import os
 app = Flask(__name__)
 
 # Configure the Google Gemini API
-Api_key = 'AIzaSyCXBmk492uACIyJyM_CmH4tCFDGt8n6X4w'  # Replace with your actual API key
+Api_key = ''  # Replace with your actual API key
 genai.configure(api_key=Api_key)
 
 # Route for the homepage (form upload)
